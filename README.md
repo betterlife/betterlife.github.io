@@ -2,5 +2,5 @@
 
 ## Open source projects
 
- - [Betterlife PSI](http://betterlife.github.io/psi)
+ - [Betterlife PSI](http://betterlife.github.io/betterlifepsi)
 
